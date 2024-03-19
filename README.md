@@ -1,5 +1,7 @@
 EV Charger Project
 
+PLEASE NOTE: In order to run this on your machine, you'll need to add a .env file with a OPEN_CHARGE_API_KEY.
+
 My approach was pretty simple:
 1) Fetch user's location
 2) Render map with user's location at the center
