@@ -58,6 +58,7 @@ export default function App() {
           longitude,
         }
       });
+      await handleRegionChange();
     })();
   }, []);
 
